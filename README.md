@@ -10,5 +10,7 @@ Compononets Required
    Head over to the conections file to make the required connections
 
    After making the required connections download the modules mentions in download file onto ur arduino
-   Now upload the code in code file onto ur arduino 
+   Now upload the code in code file onto ur arduino
    
+   Now u can build a home like structure usin cardboard and attach a door to the servomotor so that the dor opens everytime we
+   enter the right card fro reference check home file
