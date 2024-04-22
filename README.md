@@ -7,4 +7,7 @@ Compononets Required
 4) Servomotor
 5) Some cardboard
 
-   Head over to the conections file to make the required connections 
+   Head over to the conections file to make the required connections
+
+   After making the required connections download the modules mentions in download file onto ur arduino
+   
