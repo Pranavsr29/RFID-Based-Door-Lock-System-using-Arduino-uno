@@ -10,4 +10,5 @@ Compononets Required
    Head over to the conections file to make the required connections
 
    After making the required connections download the modules mentions in download file onto ur arduino
+   Now upload the code in code file onto ur arduino 
    
